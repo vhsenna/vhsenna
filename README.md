@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Victor, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> **Recife, Brazil**.
+I'm Victor, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> **Recife, Brazil**. On my way to become a ⚙️ Fullstack developer.
 
 ### 💻 Things I code with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
